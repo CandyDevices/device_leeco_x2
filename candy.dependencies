@@ -1,0 +1,20 @@
+[
+  {
+    "branch": "cm-14.1-cam-update",
+    "repository": "Tortel/android_kernel_leeco_msm8996",
+    "target_path": "kernel/leeco/msm8996",
+    "remote": "github"
+  },
+  {
+    "branch": "cm-14.1-osscam",
+    "repository": "Tortel/proprietary_vendor_leeco",
+    "target_path": "vendor/leeco",
+    "remote": "github"
+  },
+  {
+    "branch": "cm-14.1",
+    "repository": "TheMuppets/proprietary_vendor_qcom_binaries",
+    "target_path": "vendor/qcom/binaries",
+    "remote": "github"
+  }
+]
